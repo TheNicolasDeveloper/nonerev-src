@@ -1,3 +1,5 @@
+# please do not use it, its full of vulns, atleast, i think so.
+
 # nonerev-src
 NoneRev source code, since NoneRev has retired
 
